@@ -1,0 +1,36 @@
+
+FEATURES
+=============
+ - Idea
+ - Planned
+ - In Dev
+ - Working
+ - In Testing
+ - Complete
+
+1. Tabs (Working)
+   
+   By opening or creating a file the program automatically opens a new tab.
+   Creating a new file sets the title as "File 1" for example and it increments.
+   Opening a file will set the title as the name of the file.
+   Tabs will have a close system on each individual tab.
+   
+2. Tool-bar (Planned)
+   
+   The tool-bar will be on the top of the screen and gives the user the ability to click icons that
+   provide a short-cut to certain widely used commands such as save.   
+   
+3. Save & Load (Working/In-Dev)
+
+   As of now we have New, Open and Save-as working. Save still needs to be done. 
+   Save-as and open lets the user pick the directory.
+   Save should be disabled unless save as is used for a particular file first.
+
+4. Install (Idea)
+
+   A vote needs to be held to decide should we let the program as a standalone jar file,
+   a jar wrapped in a .exe or have the program installed on the users computer.
+   
+5. Manual (Planned)
+
+   The program will have a integrated manual system to explain how the program works for new users.   

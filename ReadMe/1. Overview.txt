@@ -1,0 +1,19 @@
+Notepad Lite
+============
+
+First off the title may be temporary as I intent for this project to base decisions on votes.
+If a contributor has proven themselves on the project they will be entitled to vote.
+
+1. I started making this project because I felt that it would look great on a portfolio and 
+    doesn't want to be a part of a open source project!
+	
+
+2. I am new to this so of course if you have more experience in project management, coding, design or anything
+    you can think of then please share your experience with us.
+
+
+3. Any person who contributes with have a place in the credits for your portfolio. So just do the best you can!
+
+
+4. I consider notepad++ a great program to take idea's from but I intend to keep this program as a tool
+   that will not intimidate users with no technical experience and stay away from coding tools.	

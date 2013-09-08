@@ -1,0 +1,13 @@
+IDE, Tools & Standards
+======================
+
+IDE: 
+
+   The IDE I am using is Net-beans. 
+   The builder is useful for throwing together a workable GUI fast as long as you have some experience with it.
+   
+Tools:
+
+   - Photo-shop CS6, alternatives includes GIMP.
+
+   

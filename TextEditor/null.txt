@@ -1,0 +1,1 @@
+javax.swing.JPanel[,0,30,1366x652,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.synth.SynthBorder@526282a5,flags=9,maximumSize=,minimumSize=,preferredSize=]
